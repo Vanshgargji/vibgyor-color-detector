@@ -11,7 +11,7 @@ color_ranges = {
 
 label_colors = {
     'Violet':  (211, 0, 148),
-    'Indigo':  (130, 0, 75),
+    'Indigo':  (130, 0, 75),  
     'Blue':    (255, 0, 0),
     'Green':   (0, 255, 0),
     'Yellow':  (0, 255, 255),
